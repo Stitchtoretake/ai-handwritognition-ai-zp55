@@ -1,4 +1,4 @@
-# 
+# Free AI Handwriting Recognition scripts. Featuring model-training and object-detection — optimized for maximum performance.
 
 
 
